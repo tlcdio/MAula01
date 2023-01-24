@@ -1,6 +1,6 @@
 package one.digitalinnovation.basecamp;
 
-/**
+/**Exercicio de metodo resolvido por Thiago-hassan
  * Classe de exemplo para o exercício da Aula 1 de Métodos.
  */
 public class Calculadora {
